@@ -16,3 +16,7 @@ Run on Google Colab
 
 You can run the full project on Google Colab using the provided notebook:
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1X4QI4HJxnC_1Ify7hc7hYt1IonA4bxWV#scrollTo=D82AB85c1KDG)
+
+Sample Result:
+![Result](https://github.com/Abhishek-P-M/Aerial-Crowd-Detection-and-Risk-Assessment/blob/main/sample1.png
+)
